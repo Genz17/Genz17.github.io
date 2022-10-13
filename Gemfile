@@ -8,9 +8,15 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.2.2"
+gem 'minima'
 gem "jekyll-remote-theme"
 gem 'jekyll-sitemap'
 gem 'jekyll-paginate'
+gem 'jekyll-avatar'
+gem 'jekyll-github-metadata'
+gem 'jekyll-include-cache'
+gem 'jekyll-seo-tag'
+gem 'faraday-retry'
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minima", "~> 2.5"
 #gem "bay_jekyll_theme"

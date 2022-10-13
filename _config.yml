@@ -11,15 +11,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "Genz17.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Genz17
 # Build settings
-#remote_theme: jekyll/minima
-remote_theme: benbalter/retlab
+theme: minima
+#remote_theme: benbalter/retlab
 #remote_theme: http[s]://github.<Enterprise>.com/benbalter/retlab
 markdown: kramdown
 minima:
   skin: solarize
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+  #- jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
