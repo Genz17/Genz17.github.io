@@ -14,8 +14,12 @@ layout: home
 </head>
 <p>
   <img src="./Pics/site.jpg" alt="" style="height: 300px; width:750px;"/> <br />
-  I am currently an undergraduate at Fudan University, majoring Mathematics and Applied Mathematics.
+  I am currently an undergraduate at Fudan University, majoring Mathematics and Applied Mathematics. <br />
+  Feel free to contact me!
   $$
-    \int_a^b f(x) \mathrm{d}x = F(b) - F(a).
+    \int_a^b f(x) \,\mathrm{d}x = F(b) - F(a).\\
+    \int_{\Omega} \partial f = \int_{\partial\Omega} f.\\
   $$
 </p>
+
+<span id=''>
