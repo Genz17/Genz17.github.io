@@ -14,7 +14,7 @@ layout: home
 </head>
 <p>
   <img src="./Pics/site.jpg" alt="" style="height: 300px; width:750px;"/> <br />
-  I am currently an undergraduate at Fudan University, majoring Mathematics and Applied Mathematics. You can see my <a href="..\PDFs\CV.pdf">CV</a> through the link. <br />
+  I am currently an undergraduate at Fudan University, majoring in Mathematics and Applied Mathematics. You can see my <a href="..\PDFs\CV.pdf">CV</a> through the link. <br />
   Feel free to contact me!
   $$
     \int_a^b f(x) \,\mathrm{d}x = F(b) - F(a).\\
