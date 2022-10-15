@@ -1,6 +1,6 @@
 header_pages:
   - About.markdown
-  - Publications.markdown
+  #- Publications.markdown
 
 title: Gengzhi Yang's Homepage
 email: genzyang17@gmail.com
