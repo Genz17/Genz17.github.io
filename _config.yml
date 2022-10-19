@@ -1,8 +1,8 @@
 header_pages:
-  - About.markdown
+  - Academic.markdown
   #- Publications.markdown
 
-title: Gengzhi Yang's Homepage
+title: Gengzhi Yang(杨耕智)
 email: genzyang17@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the webpage of Genz.

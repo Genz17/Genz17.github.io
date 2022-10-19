@@ -24,12 +24,20 @@ layout: home
   <img src="./Pics/site.jpg" alt="" style="height: 300px; width:750px;"/>
 </p>
 <p>
-  I am currently an undergraduate at Fudan University, majoring in Mathematics and Applied Mathematics. You can see my <a href="..\PDFs\CV.pdf">CV</a> through the link. <br />
+  I am currently an undergraduate at Fudan University, Shanghai, China, majoring in Mathematics and Applied Mathematics.
+</p>
+<p>
+  Basically, my interest falls in Computational Mathematics. For a detaied <a href="..\PDFs\CV.pdf">CV</a>, just click the link. 
+  More academic details about me are shown in the Academic page. To contact, you can find some ways at the bottom of the page.
+</p>
+<p>
+  Wish you a good day!
 </p>
 
 <div class='bottom'>
 <hr>
   <center>
+    Reach me at 
     Github:
     <a href="https://github.com/Genz17">
     <img src="./Pics/GitHub-Mark.png" alt="" style="height: 25px; width:25px;vertical-align:middle;"/>
