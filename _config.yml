@@ -23,7 +23,7 @@ name                     : ""
 description              : ""
 url                      : ""
 baseurl                  : ""
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Genz17/Genz17.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : ""
 masthead_title           : "Gengzhi Yang(杨耕智)"
@@ -230,6 +230,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-titles-from-headings
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -275,6 +276,11 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
 
 
 # Defaults

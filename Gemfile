@@ -17,6 +17,7 @@ gem 'jekyll-include-cache'
 gem 'jekyll-seo-tag'
 gem 'faraday-retry'
 gem "minimal-mistakes-jekyll"
+gem 'jekyll-titles-from-headings'
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
 #gem "bay_jekyll_theme"
