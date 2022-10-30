@@ -9,7 +9,6 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.2.2"
 gem 'minima'
-gem "jekyll-remote-theme"
 gem 'jekyll-sitemap'
 gem 'jekyll-paginate'
 gem 'jekyll-avatar'
