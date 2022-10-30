@@ -156,10 +156,7 @@ footer:
 include:
   - .htaccess
   - _pages
-  - /docs # ignore Minimal Mistakes /docs
-  - docs
-  - docs/_posts
-  - docs/_posts/
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -288,7 +285,7 @@ titles_from_headings:
 
 # Defaults
 defaults:
-  # _posts
+    # _posts
   - scope:
       path: ""
       type: posts

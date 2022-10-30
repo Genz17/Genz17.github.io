@@ -1,6 +1,6 @@
 ---
 title:  "VIM Settings"
-layout: single
+layout: archive
 ---
 Even trying a lot of much more convenient IDEs and editors, I still feel that VIM is what I want. If you are also a VIMer by chance, cheers!
 
