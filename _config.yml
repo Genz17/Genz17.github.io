@@ -157,6 +157,9 @@ include:
   - .htaccess
   - _pages
   - /docs # ignore Minimal Mistakes /docs
+  - docs
+  - docs/_posts
+  - docs/_posts/
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

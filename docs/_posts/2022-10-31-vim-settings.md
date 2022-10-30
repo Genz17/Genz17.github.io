@@ -1,6 +1,6 @@
 ---
 title:  "VIM Settings"
-layout: posts
+layout: single
 ---
 Even trying a lot of much more convenient IDEs and editors, I still feel that VIM is what I want. If you are also a VIMer by chance, cheers!
 
