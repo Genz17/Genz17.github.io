@@ -2,7 +2,8 @@
 title:  "VIM Settings"
 layout: archive
 ---
-Even trying a lot of much more convenient IDEs and editors, I still feel that VIM is what I want. If you are also a VIMer by chance, cheers!
+After trying a lot of IDEs and editors, I still feel that VIM/Neovim is what I 
+want. Here I would like to share my .vimrc.
 
 ```
 set nocompatible              
@@ -163,3 +164,5 @@ let python_highlight_all=1
 hi String ctermfg = green
 hi Number ctermfg = red
 ```
+
+If you are also a VIMer by chance, cheers!
