@@ -14,6 +14,7 @@ A neural network that can be initialized as a Fourier Transform Operator. Prepri
 
 ## Finite Expression Method for PDE Solving through Spectral Method
 FEX through spectral method.
+<a href="https://github.com/Genz17/FEXSpectrum">[Code]</a>
 
 ## Butterfly Algorithm in Discretization Invariant Learning
 
