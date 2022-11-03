@@ -118,31 +118,6 @@ nnoremap <C-L> <C-V>
 let g:asyncrun_open=10
 let g:asyncrun_save=1
 
-"map <F5> :call Runcode()<CR>
-"func! Runcode()
-"     exec "w"
-"       if &filetype == 'python'
-"           if search("@profile")
-"               exec "AsyncRun kernprof -l -v %"
-"               exec "copen"
-"               exec "wincmd p"
-"           elseif search("set_trace()")
-"               exec "!python3 %"
-"           else
-"               exec "AsyncRun -raw python3 %"
-"               exec "copen"
-"               exec "wincmd p"
-"           endif
-"      elseif &filetype == 'c'
-"          exec "AsyncRun! gcc % -o %<; time ./%<"
-"      elseif &filetype == 'cpp'
-"          exec "AsyncRun! g++ -std=c++11 % -o %<; time ./%<"
-"          exec "copen"
-"          exec "wincmd p"
-"      elseif &filetype == 'java'
-"          exec "AsyncRun! javac %; time java %<"
-"      endif
-"endfunc
 
 " Indent
 au BufNewFile,BufRead *.py,*.php,*.rb,*.html,*.js,*.ts,*.md
