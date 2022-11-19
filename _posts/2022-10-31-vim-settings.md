@@ -3,7 +3,9 @@ title:  "VIM Settings"
 layout: archive
 ---
 After trying a lot of IDEs and editors, I still feel that VIM/Neovim is what I 
-want. Here I would like to share my .vimrc.
+want. In order to use the same editor 
+at every machine, I decided not to use any plugin.
+Here I would like to share my .vimrc.
 
 ```
 set nocompatible              

@@ -1,9 +1,9 @@
 ---
-permalink: /Academic/
+permalink: /Research/
 layout: single
 author_profile: true
 ---
-# Academic
+# Research
 
 ## ButterflyNet2D: CNN With Fourier Transform Initialization
 A neural network that can be initialized as a Fourier Transform Operator. Preprint coming soon.
